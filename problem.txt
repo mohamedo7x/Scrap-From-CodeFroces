@@ -1,0 +1,101 @@
+
+Make Triangle                    constructive algorithmsmath
+Amanda the Amoeba                    graphsimplementationtreestwo pointers
+Disks                    dfs and similargeometrygraph matchingsgraphs
+Division Avoidance
+Scooter                    graphsgreedy
+Dating                    greedysortingstrees
+Damage per Second
+Funny or Scary?                    constructive algorithms
+Annual Ants' Gathering                    dfs and similargreedytrees
+Charming Meals                    binary searchbrute forcegreedysortings
+Grove                    dpdpdpgeometry
+MST with Matching                    bitmasksbrute forcedsugraph matchingstrees
+Rare Coins                    combinatoricsmathprobabilities
+Clique Partition                    brute forceconstructive algorithmsgraphsgreedyimplementation
+Tandem Repeats?                    brute forcestringstwo pointers
+Arrow Path                    brute forceconstructive algorithmsdfs and similardpgraphsshortest paths
+Array Fix                    brute forcedpgreedyimplementation
+Special Characters                    brute forceconstructive algorithms
+Nobody is needed                    brute forcedata structuresdpmathnumber theory
+Girl Permutation                    combinatoricsdpmathnumber theory
+Birthday Gift                    bitmasksbrute forceconstructive algorithmsgreedyimplementation
+Tree Cutting                    binary searchdpgreedyimplementationtrees
+Maximum Sum                    dpgreedymath
+Median of an Array                    greedyimplementation
+GCD is Greater                    brute forcedata structuresmathnumber theory
+Cook and Porridge                    binary searchconstructive algorithmsdata structuresimplementation
+Kirill and Mushrooms                    data structuressortings
+Binary Search                    binary searchconstructive algorithmsgreedysortings
+Seraphim the Owl                    dpgreedy
+Left and Right Houses                    brute force
+Fireworks                    mathnumber theory
+Setting up Camp                    greedymath
+Equal XOR                    bitmasksconstructive algorithms
+Destroying Bridges                    graphsgreedymath
+Minimum Hamming Distance                    dp
+MEX Game 2 (Hard Version)                    binary searchgreedytwo pointers
+MEX Game 2 (Easy Version)                    binary searchbrute forcegreedy
+Counting Is Fun (Hard Version)                    combinatoricsdp
+Counting Is Fun (Easy Version)                    brute forcecombinatoricsdpmath
+Tree Compass                    constructive algorithmsdfs and similargreedytrees
+Non-Palindromic Substring                    hashingimplementationmathstrings
+MEX Game 1                    gamesgreedy
+Rudolf and Subway                    constructive algorithmsdfs and similargraphsshortest paths
+Rudolf and Imbalance                    binary searchgreedysortingstwo pointers
+Rudolf and k Bridges                    binary searchdata structuresdptwo pointers
+Rudolf and the Ball Game                    dfs and similardpimplementation
+Rudolf and the Ugly String                    dpgreedystrings
+Rudolf and 121                    brute forcedpgreedymath
+Rudolf and the Ticket                    brute forcemath
+Almost Certainly                    *special problemconstructive algorithmsdata structuressortings
+Burenka and Pether                    *special problemdata structuresdfs and similardivide and conquerdsugraphssortingstrees
+Three Arrays                    *special problemconstructive algorithmsimplementationsortings
+Parallel Universes                    *special problemconstructive algorithmsdfs and similardsugraphs
+Big Persimmon                    *special problemdpgames
+More Gifts                    *special problemdfs and similartwo pointers
+Evidence Board                    *special problemconstructive algorithmsdfs and similargraphstrees
+Draw Polygon Lines                    *special problemconstructive algorithmsdpgeometryinteractive
+Zig-zag
+XOR Operations
+Tree Quiz
+There and Back Again
+Symmetric Boundary
+Pho Restaurant
+Personality Test
+Forming Groups
+Duplicates
+Bánh Bò
+Bit Counting Sequence
+Attraction Score
+Antiparticle Antiphysics
+Binary Path                    dpgreedyimplementation
+Shuffle Party                    implementationmath
+Grand Finale: Circles                    binary searchgeometry
+Yet Yet Another Permutation Problem                    divide and conquerfftmath
+Bitwise Paradox                    binary searchbitmasksdata structuresgreedytwo pointers
+Pokémon Arena                    data structuresgraphsgreedyimplementationshortest pathssortings
+Pinball                    binary searchdata structuresimplementationmathtwo pointers
+Bitwise Operation Wizard                    bitmasksconstructive algorithmsgreedyinteractivemath
+Andrey's Tree                    binary searchconstructive algorithmsdata structuresdfs and similardsugreedyimplementationtrees
+Distance Learning Courses in MAC                    bitmasksbrute forcedata structuresgreedymath
+Exam in MAC                    binary searchcombinatoricsimplementationmath
+Messenger in MAC                    binary searchbrute forceconstructive algorithmsdata structuresdpgreedysortings
+Informatics in MAC                    constructive algorithms
+Entertainment in MAC                    constructive algorithmsstrings
+Weird LCM Operations                    brute forceconstructive algorithmsnumber theory
+XOR Break --- Game Version                    bitmasksgamesgreedyinteractive
+XOR Break --- Solo Version                    bitmasksconstructive algorithmsgreedy
+Find a Mine                    binary searchconstructive algorithmsgeometrygreedyinteractivemath
+Yet Another Coin Problem                    brute forcedpgreedymath
+Too Min Too Max                    greedymath
+Turtle Magic: Royal Turtle Shell Pattern                    bitmasksbrute forcecombinatoricsconstructive algorithmsdfs and similarmath
+Turtle Mission: Robot and the Earthquake                    dfs and similardpgraphsshortest paths
+Turtle vs. Rabbit Race: Optimal Trainings                    binary searchimplementationmathternary search
+Turtle Tenacity: Continual Mods                    constructive algorithmsgreedymathnumber theorysortings
+Turtle Fingers: Count the Values of k                    brute forceimplementationmathnumber theory
+Turtle Math: Fast Three Task                    implementationmathnumber theory
+Turtle Puzzle: Rearrange and Negate                    greedymathsortings
+Moving Platforms                    graphsmathnumber theoryshortest paths
+Feed Cats                    data structuresdpsortings
+Final Countdown                    implementationmathnumber theory

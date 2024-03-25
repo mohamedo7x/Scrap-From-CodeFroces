@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Problem ID: <%= metadata.id %></h3>
+    <p><%= metadata.message %></p>
+    
+    <div>
+        <h3>Contest Matrial</h3>
+        <ul>
+            <% let contents = metadata.contest %>
+            <% if (contents) { %>
+                <% for (let i = 0; i < contents.length; i++) { %>
+                    <li><%= contents[i] %></li>
+                <% } %>
+            <% } else { %>
+                <li>No contents available</li>
+            <% } %>
+        </ul>
+    </div>
+</body>
+</html>
