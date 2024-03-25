@@ -36,6 +36,7 @@ async function getProblemsNameAndNumber() {
 }
 
 async function getSpesificeProblemStory(id) {
+  metrials = [];
   const response = await axios.get(
     `https://codeforces.com/problemset/problem/${id[0]}/${id[1]}`
   );
