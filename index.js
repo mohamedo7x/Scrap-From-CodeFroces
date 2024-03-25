@@ -55,11 +55,11 @@ async function getSpesificeProblemStory(id) {
   return txt;
 }
 
-app.get('/' , (req , res)=> {
+app.get('/ok' , (req , res)=> {
   res.send('ok👍')
 })
 
-app.get("/codeforeces", async (req, res) => {
+app.get("/", async (req, res) => {
   res.render("index", { info });
 });
 
