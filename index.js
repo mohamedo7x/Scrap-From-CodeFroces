@@ -14,8 +14,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.use(cors('*'))
 dot.config();
 
-//config
-let LoadMainBage = false;
+
 
 
 //dataBase
@@ -61,6 +60,7 @@ app.get('/ok' , (req , res)=> {
 })
 
 app.get("/", async (req, res) => {
+    await getProblemsNameAndNumber();
   res.render("index", { info });
 });
 
@@ -80,9 +80,5 @@ app.get("/problem/:id", async (req, res) => {
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
 
-    if(!LoadMainBage){
-        LoadMainBage = true;
-        getProblemsNameAndNumber();
-    }
   console.log(`http://localhost:${port}/`);
 });
